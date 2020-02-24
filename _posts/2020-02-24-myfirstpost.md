@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my first post
+title: top series books
 subtitle: testin my post
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
